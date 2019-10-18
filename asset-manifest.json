@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/soft-biometric/static/css/main.b0851273.chunk.css",
+    "main.js": "/soft-biometric/static/js/main.f5ad0e90.chunk.js",
+    "main.js.map": "/soft-biometric/static/js/main.f5ad0e90.chunk.js.map",
+    "runtime-main.js": "/soft-biometric/static/js/runtime-main.94a5a932.js",
+    "runtime-main.js.map": "/soft-biometric/static/js/runtime-main.94a5a932.js.map",
+    "static/js/2.2c6b1317.chunk.js": "/soft-biometric/static/js/2.2c6b1317.chunk.js",
+    "static/js/2.2c6b1317.chunk.js.map": "/soft-biometric/static/js/2.2c6b1317.chunk.js.map",
+    "index.html": "/soft-biometric/index.html",
+    "precache-manifest.cd451ab782535b00acef1158185b9b12.js": "/soft-biometric/precache-manifest.cd451ab782535b00acef1158185b9b12.js",
+    "service-worker.js": "/soft-biometric/service-worker.js",
+    "static/css/main.b0851273.chunk.css.map": "/soft-biometric/static/css/main.b0851273.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a5a932.js",
+    "static/js/2.2c6b1317.chunk.js",
+    "static/css/main.b0851273.chunk.css",
+    "static/js/main.f5ad0e90.chunk.js"
+  ]
+}
